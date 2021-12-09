@@ -82,6 +82,6 @@ sass:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhichucode.github.io/jekyll-theme-parallelism" # the base hostname & protocol for your site, e.g. http://example.com
 author: David Mougeolle
-copyright_holder: Untitled
+copyright_holder: CC
 
 # Exclude from processing
