@@ -11,19 +11,19 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: (716) 555-zhichucode
 email: youremailaddress@gmail.com
 
 # Social settings
-500px_url: https://github.com/moodule
-facebook_url: https://github.com/moodule
-github_url: https://github.com/moodule
-gitlab_url: https://github.com/moodule
-instagram_url: https://github.com/moodule
-linkedin_url: https://github.com/moodule
-pinterest_url: https://github.com/moodule
-slack_url: https://github.com/moodule
-twitter_url: https://github.com/moodule
+500px_url: https://github.com/zhichucode
+# facebook_url: https://github.com/moodule
+github_url: https://github.com/zhichucode
+# gitlab_url: https://github.com/moodule
+instagram_url: https://github.com/zhichucode
+# linkedin_url: https://github.com/moodule
+pinterest_url: https://github.com/zhichucode
+# slack_url: https://github.com/moodule
+twitter_url: https://github.com/zhichucode
 
 # Optional elements
 logo: /assets/images/logo.png
